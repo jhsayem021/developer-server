@@ -20,7 +20,10 @@ const projects = [
         image1: "https://trusting-liskov-cca2cd.netlify.app/image/Capture8.PNG",
         image2:"https://trusting-liskov-cca2cd.netlify.app/image/Capture9.PNG",
         image3:"https://trusting-liskov-cca2cd.netlify.app/image/Capture10.PNG" ,
-        image4: "https://trusting-liskov-cca2cd.netlify.app/image/Capture11.PNG"
+        image4: "https://trusting-liskov-cca2cd.netlify.app/image/Capture11.PNG",
+        link1:"https://sa-tourism-planner.web.app/",
+        link2:"https://github.com/jhsayem021/Tourism_Demo",
+        link3:"https://github.com/jhsayem021/Tourism_Demo_server_site"
     },
     {
         id:1,
@@ -32,11 +35,15 @@ const projects = [
         image1:"https://trusting-liskov-cca2cd.netlify.app/image/Capture4.PNG",
         image2:"https://trusting-liskov-cca2cd.netlify.app/image/Capture7.PNG",
         image3:"https://trusting-liskov-cca2cd.netlify.app/image/Capture6.PNG" ,
-        image4:"https://trusting-liskov-cca2cd.netlify.app/image/Capture5.PNG"
+        image4:"https://trusting-liskov-cca2cd.netlify.app/image/Capture5.PNG",
+        link1:"https://health-care-5d739.web.app/",
+        link2:"https://github.com/jhsayem021/General_hospital",
+        link3:""
+
     
     },
     {
-        id:1,
+        id:2,
         title:"Niche Product website" ,
         description:"Its an demo website of niche product created using reactJS, plain css and bootstrap.this websites includes, firebase-authentication and mongodb database funtionality.",
         features1:"-Demo of a niche product website, users can see our products." ,
@@ -45,7 +52,10 @@ const projects = [
         image1:"https://trusting-liskov-cca2cd.netlify.app/image/Capture1.PNG",
         image2:"https://trusting-liskov-cca2cd.netlify.app/image/Capture.PNG",
         image3:"https://trusting-liskov-cca2cd.netlify.app/image/Capture2.PNG" ,
-        image4:"https://trusting-liskov-cca2cd.netlify.app/image/Capture3.PNG"
+        image4:"https://trusting-liskov-cca2cd.netlify.app/image/Capture3.PNG",
+        link1:"https://sa-motors-ec200.web.app/",
+        link2:"https://github.com/jhsayem021/niche_product",
+        link3:"https://github.com/jhsayem021/niche_product_server_site"
     
     } 
 ]
